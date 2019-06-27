@@ -1,0 +1,2310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<WIPDatas>
+  <WIPData>
+    <ProductIdentifier>30199D8471002401</ProductIdentifier>
+    <Quantity>1</Quantity>
+    <Status>Passed</Status>
+    <Operation>6. AOI KY.</Operation>
+    <OperationSequence>7</OperationSequence>
+    <Workstation>AOI KY P5-3</Workstation>
+    <ERPRoutePoint/>
+    <ERPRoutePointValue/>
+    <CycleTime>31</CycleTime>
+    <TimeStarted>2018-11-19T11:24:41</TimeStarted>
+    <TimeCompleted>2018-11-19T11:25:12</TimeCompleted>
+    <PlacementCount>0</PlacementCount>
+    <Line>Line 3 SMT P5-3</Line>
+    <Assembly>3101541</Assembly>
+    <AssemblyRevision>3101541</AssemblyRevision>
+    <Process/>
+    <ProcessRevision>Pri</ProcessRevision>
+    <Batch>10015635</Batch>
+    <BatchLot/>
+    <Order/>
+    <PreviousBatch/>
+    <PreviousOrder/>
+    <TimeRecorded/>
+  </WIPData>
+  <WIPData>
+    <ProductIdentifier>30199D8471002402</ProductIdentifier>
+    <Quantity>1</Quantity>
+    <Status>Passed</Status>
+    <Operation>6. AOI KY.</Operation>
+    <OperationSequence>7</OperationSequence>
+    <Workstation>AOI KY P5-3</Workstation>
+    <ERPRoutePoint/>
+    <ERPRoutePointValue/>
+    <CycleTime>31</CycleTime>
+    <TimeStarted>2018-11-19T11:24:41</TimeStarted>
+    <TimeCompleted>2018-11-19T11:25:12</TimeCompleted>
+    <PlacementCount>0</PlacementCount>
+    <Line>Line 3 SMT P5-3</Line>
+    <Assembly>3101541</Assembly>
+    <AssemblyRevision>3101541</AssemblyRevision>
+    <Process/>
+    <ProcessRevision>Pri</ProcessRevision>
+    <Batch>10015635</Batch>
+    <BatchLot/>
+    <Order/>
+    <PreviousBatch/>
+    <PreviousOrder/>
+    <TimeRecorded/>
+  </WIPData>
+  <WIPData>
+    <ProductIdentifier>30199D8471002403</ProductIdentifier>
+    <Quantity>1</Quantity>
+    <Status>Passed</Status>
+    <Operation>6. AOI KY.</Operation>
+    <OperationSequence>7</OperationSequence>
+    <Workstation>AOI KY P5-3</Workstation>
+    <ERPRoutePoint/>
+    <ERPRoutePointValue/>
+    <CycleTime>31</CycleTime>
+    <TimeStarted>2018-11-19T11:24:41</TimeStarted>
+    <TimeCompleted>2018-11-19T11:25:12</TimeCompleted>
+    <PlacementCount>0</PlacementCount>
+    <Line>Line 3 SMT P5-3</Line>
+    <Assembly>3101541</Assembly>
+    <AssemblyRevision>3101541</AssemblyRevision>
+    <Process/>
+    <ProcessRevision>Pri</ProcessRevision>
+    <Batch>10015635</Batch>
+    <BatchLot/>
+    <Order/>
+    <PreviousBatch/>
+    <PreviousOrder/>
+    <TimeRecorded/>
+  </WIPData>
+  <WIPData>
+    <ProductIdentifier>30199D8471003101</ProductIdentifier>
+    <Quantity>1</Quantity>
+    <Status>Passed</Status>
+    <Operation>4. SMT.</Operation>
+    <OperationSequence>5</OperationSequence>
+    <Workstation>PanaCIM-3 SMT P5-3</Workstation>
+    <ERPRoutePoint/>
+    <ERPRoutePointValue/>
+    <CycleTime>0</CycleTime>
+    <TimeStarted>2018-11-19T11:26:04</TimeStarted>
+    <TimeCompleted>2018-11-19T11:26:04</TimeCompleted>
+    <PlacementCount>65</PlacementCount>
+    <Line>Line 3 SMT P5-3</Line>
+    <Assembly>3101541</Assembly>
+    <AssemblyRevision>3101541</AssemblyRevision>
+    <Process/>
+    <ProcessRevision>Pri</ProcessRevision>
+    <Batch>10015635</Batch>
+    <BatchLot/>
+    <Order/>
+    <ItemSummaryData>
+      <IPN>1014301</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000110659</AGI>
+      <LotNumber>1000024975</LotNumber>
+      <Description>КВАРЦ.ГЕН. NT2016SA 32MHZ END4622A (NDK)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014085</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000135282</AGI>
+      <LotNumber>1000026816</LotNumber>
+      <Description>МИКРОСХЕМА TPD2E001DRLR</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1025943</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000118530</AGI>
+      <LotNumber>1000025648</LotNumber>
+      <Description>МИКРОСХЕМА MX25L25645GM2I-08G(MACRONIX)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1016837</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000157828</AGI>
+      <LotNumber>1000028185</LotNumber>
+      <Description>РАЗЪЕМ USB MICRO UMMBF-051MGCB9-CF1066</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1025469</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000120181</AGI>
+      <LotNumber>1000025746</LotNumber>
+      <Description>МИКРОСХЕМА CC1121RHBR (TI)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014038</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000040024</AGI>
+      <LotNumber>1000018996</LotNumber>
+      <Description>РЕЗИСТОР SMD 0402 220R 5%</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021802</IPN>
+      <Quantity>2</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000110514</AGI>
+      <LotNumber>1000024949</LotNumber>
+      <Description>МИКРОСХЕМА ULN2003ADR (TI)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014280</IPN>
+      <Quantity>22</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000106234</AGI>
+      <LotNumber>1000024734</LotNumber>
+      <Description>GRM188R72A104KA35D 0603 0U1 100V X7R 10%</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021765</IPN>
+      <Quantity>2</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000150512</AGI>
+      <LotNumber>1000027801</LotNumber>
+      <Description>МИКРОСХЕМА VN7140ASTR (ST)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021646</IPN>
+      <Quantity>2</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000154537</AGI>
+      <LotNumber>1000028058</LotNumber>
+      <Description>МИКРОСХЕМА TCAN1042VDRQ1 (TI)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014082</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000119672</AGI>
+      <LotNumber>1000025725</LotNumber>
+      <Description>МИКРОСХЕМА CC1190RGVR</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014130</IPN>
+      <Quantity>3</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000114964</AGI>
+      <LotNumber>1000025415</LotNumber>
+      <Description>ДИОД PMEG4030EP,115 (NXP)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1013602</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000122304</AGI>
+      <LotNumber>1000025982</LotNumber>
+      <Description>МИКРОСХЕМА LM2931AD-5.0R2G (ONS)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1016253</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000098831</AGI>
+      <LotNumber>1000024207</LotNumber>
+      <Description>МИКРОСХЕМА 25AA640AT-I/MS (MICROCHIP)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1018263</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000139763</AGI>
+      <LotNumber>1000027094</LotNumber>
+      <Description>МИКРОСХЕМА CPC1117N (IXYS)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014503</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000057660</AGI>
+      <LotNumber>1000020841</LotNumber>
+      <Description>КАТУШКА СИЛ SMTDRRI8D28-100N-FN381 (3L)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021931</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000140851</AGI>
+      <LotNumber>1000027150</LotNumber>
+      <Description>МИКРОСХЕМА NRF52832-QFAA-R7 (NORDIC)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021768</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000139190</AGI>
+      <LotNumber>1000027061</LotNumber>
+      <Description>МИКРОСХЕМА STM32F412ZGT6 (ST)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021685</IPN>
+      <Quantity>3</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000102761</AGI>
+      <LotNumber>1000024557</LotNumber>
+      <Description>МИКРОСХЕМА SN65HVDA195QDRQ1 (TI)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014159</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000110939</AGI>
+      <LotNumber>1000025005</LotNumber>
+      <Description>РЕЗ NX2520SA 16MHZ S1-4085-1510-10 (NDK)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014280</IPN>
+      <Quantity>5</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000106235</AGI>
+      <LotNumber>1000024734</LotNumber>
+      <Description>GRM188R72A104KA35D 0603 0U1 100V X7R 10%</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1027372</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000107010</AGI>
+      <LotNumber>1000024823</LotNumber>
+      <Description>CE050M0022RED-0605 ЭЛ-ЛИТ 50V 22U 20%</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1030872</IPN>
+      <Quantity>6</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000159458</AGI>
+      <LotNumber>1000028347</LotNumber>
+      <Description>CC0402JRNPO9BN150 0402 15P 50V NPO 5%</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1030835</IPN>
+      <Quantity>2</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000165762</AGI>
+      <LotNumber>1000028469</LotNumber>
+      <Description>Разъем 20623-001E (MFF-SW20)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1013653</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000158421</AGI>
+      <LotNumber>1000025858</LotNumber>
+      <Description>МИКРОСХЕМА LIS3DH (ST MICRO)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014591</IPN>
+      <Quantity>3</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000109235</AGI>
+      <LotNumber>1000024880</LotNumber>
+      <Description>РЕЗИСТОР SMD 0805 1K 5%</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1015614</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000036172</AGI>
+      <LotNumber>1000018207</LotNumber>
+      <Description>РЕЗИСТОР SMD 2010 27K 5%</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <PreviousBatch/>
+    <PreviousOrder/>
+    <TimeRecorded/>
+  </WIPData>
+  <WIPData>
+    <ProductIdentifier>30199D8471003102</ProductIdentifier>
+    <Quantity>1</Quantity>
+    <Status>Passed</Status>
+    <Operation>4. SMT.</Operation>
+    <OperationSequence>5</OperationSequence>
+    <Workstation>PanaCIM-3 SMT P5-3</Workstation>
+    <ERPRoutePoint/>
+    <ERPRoutePointValue/>
+    <CycleTime>0</CycleTime>
+    <TimeStarted>2018-11-19T11:26:04</TimeStarted>
+    <TimeCompleted>2018-11-19T11:26:04</TimeCompleted>
+    <PlacementCount>65</PlacementCount>
+    <Line>Line 3 SMT P5-3</Line>
+    <Assembly>3101541</Assembly>
+    <AssemblyRevision>3101541</AssemblyRevision>
+    <Process/>
+    <ProcessRevision>Pri</ProcessRevision>
+    <Batch>10015635</Batch>
+    <BatchLot/>
+    <Order/>
+    <ItemSummaryData>
+      <IPN>1014301</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000110659</AGI>
+      <LotNumber>1000024975</LotNumber>
+      <Description>КВАРЦ.ГЕН. NT2016SA 32MHZ END4622A (NDK)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014085</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000135282</AGI>
+      <LotNumber>1000026816</LotNumber>
+      <Description>МИКРОСХЕМА TPD2E001DRLR</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1025943</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000118530</AGI>
+      <LotNumber>1000025648</LotNumber>
+      <Description>МИКРОСХЕМА MX25L25645GM2I-08G(MACRONIX)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1016837</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000157828</AGI>
+      <LotNumber>1000028185</LotNumber>
+      <Description>РАЗЪЕМ USB MICRO UMMBF-051MGCB9-CF1066</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1025469</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000120181</AGI>
+      <LotNumber>1000025746</LotNumber>
+      <Description>МИКРОСХЕМА CC1121RHBR (TI)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014038</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000040024</AGI>
+      <LotNumber>1000018996</LotNumber>
+      <Description>РЕЗИСТОР SMD 0402 220R 5%</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021802</IPN>
+      <Quantity>2</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000110514</AGI>
+      <LotNumber>1000024949</LotNumber>
+      <Description>МИКРОСХЕМА ULN2003ADR (TI)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014280</IPN>
+      <Quantity>21</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000106234</AGI>
+      <LotNumber>1000024734</LotNumber>
+      <Description>GRM188R72A104KA35D 0603 0U1 100V X7R 10%</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021765</IPN>
+      <Quantity>2</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000150512</AGI>
+      <LotNumber>1000027801</LotNumber>
+      <Description>МИКРОСХЕМА VN7140ASTR (ST)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021646</IPN>
+      <Quantity>2</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000154537</AGI>
+      <LotNumber>1000028058</LotNumber>
+      <Description>МИКРОСХЕМА TCAN1042VDRQ1 (TI)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014082</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000119672</AGI>
+      <LotNumber>1000025725</LotNumber>
+      <Description>МИКРОСХЕМА CC1190RGVR</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014130</IPN>
+      <Quantity>3</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000114964</AGI>
+      <LotNumber>1000025415</LotNumber>
+      <Description>ДИОД PMEG4030EP,115 (NXP)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1013602</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000122304</AGI>
+      <LotNumber>1000025982</LotNumber>
+      <Description>МИКРОСХЕМА LM2931AD-5.0R2G (ONS)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1016253</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000098831</AGI>
+      <LotNumber>1000024207</LotNumber>
+      <Description>МИКРОСХЕМА 25AA640AT-I/MS (MICROCHIP)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1018263</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000139763</AGI>
+      <LotNumber>1000027094</LotNumber>
+      <Description>МИКРОСХЕМА CPC1117N (IXYS)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014503</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000057660</AGI>
+      <LotNumber>1000020841</LotNumber>
+      <Description>КАТУШКА СИЛ SMTDRRI8D28-100N-FN381 (3L)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021931</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000140851</AGI>
+      <LotNumber>1000027150</LotNumber>
+      <Description>МИКРОСХЕМА NRF52832-QFAA-R7 (NORDIC)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021768</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000139190</AGI>
+      <LotNumber>1000027061</LotNumber>
+      <Description>МИКРОСХЕМА STM32F412ZGT6 (ST)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021685</IPN>
+      <Quantity>3</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000102761</AGI>
+      <LotNumber>1000024557</LotNumber>
+      <Description>МИКРОСХЕМА SN65HVDA195QDRQ1 (TI)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014159</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000110939</AGI>
+      <LotNumber>1000025005</LotNumber>
+      <Description>РЕЗ NX2520SA 16MHZ S1-4085-1510-10 (NDK)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014280</IPN>
+      <Quantity>3</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000106235</AGI>
+      <LotNumber>1000024734</LotNumber>
+      <Description>GRM188R72A104KA35D 0603 0U1 100V X7R 10%</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1027372</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000107010</AGI>
+      <LotNumber>1000024823</LotNumber>
+      <Description>CE050M0022RED-0605 ЭЛ-ЛИТ 50V 22U 20%</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1030872</IPN>
+      <Quantity>6</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000159458</AGI>
+      <LotNumber>1000028347</LotNumber>
+      <Description>CC0402JRNPO9BN150 0402 15P 50V NPO 5%</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1030835</IPN>
+      <Quantity>2</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000165762</AGI>
+      <LotNumber>1000028469</LotNumber>
+      <Description>Разъем 20623-001E (MFF-SW20)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1013653</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000158421</AGI>
+      <LotNumber>1000025858</LotNumber>
+      <Description>МИКРОСХЕМА LIS3DH (ST MICRO)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014591</IPN>
+      <Quantity>3</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000109235</AGI>
+      <LotNumber>1000024880</LotNumber>
+      <Description>РЕЗИСТОР SMD 0805 1K 5%</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1015614</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000036172</AGI>
+      <LotNumber>1000018207</LotNumber>
+      <Description>РЕЗИСТОР SMD 2010 27K 5%</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <PreviousBatch/>
+    <PreviousOrder/>
+    <TimeRecorded/>
+  </WIPData>
+  <WIPData>
+    <ProductIdentifier>30199D8471003103</ProductIdentifier>
+    <Quantity>1</Quantity>
+    <Status>Passed</Status>
+    <Operation>4. SMT.</Operation>
+    <OperationSequence>5</OperationSequence>
+    <Workstation>PanaCIM-3 SMT P5-3</Workstation>
+    <ERPRoutePoint/>
+    <ERPRoutePointValue/>
+    <CycleTime>0</CycleTime>
+    <TimeStarted>2018-11-19T11:26:04</TimeStarted>
+    <TimeCompleted>2018-11-19T11:26:04</TimeCompleted>
+    <PlacementCount>65</PlacementCount>
+    <Line>Line 3 SMT P5-3</Line>
+    <Assembly>3101541</Assembly>
+    <AssemblyRevision>3101541</AssemblyRevision>
+    <Process/>
+    <ProcessRevision>Pri</ProcessRevision>
+    <Batch>10015635</Batch>
+    <BatchLot/>
+    <Order/>
+    <ItemSummaryData>
+      <IPN>1014301</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000110659</AGI>
+      <LotNumber>1000024975</LotNumber>
+      <Description>КВАРЦ.ГЕН. NT2016SA 32MHZ END4622A (NDK)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014085</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000135282</AGI>
+      <LotNumber>1000026816</LotNumber>
+      <Description>МИКРОСХЕМА TPD2E001DRLR</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1025943</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000118530</AGI>
+      <LotNumber>1000025648</LotNumber>
+      <Description>МИКРОСХЕМА MX25L25645GM2I-08G(MACRONIX)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1016837</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000157828</AGI>
+      <LotNumber>1000028185</LotNumber>
+      <Description>РАЗЪЕМ USB MICRO UMMBF-051MGCB9-CF1066</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1025469</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000120181</AGI>
+      <LotNumber>1000025746</LotNumber>
+      <Description>МИКРОСХЕМА CC1121RHBR (TI)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014038</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000040024</AGI>
+      <LotNumber>1000018996</LotNumber>
+      <Description>РЕЗИСТОР SMD 0402 220R 5%</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021802</IPN>
+      <Quantity>2</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000110514</AGI>
+      <LotNumber>1000024949</LotNumber>
+      <Description>МИКРОСХЕМА ULN2003ADR (TI)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014280</IPN>
+      <Quantity>21</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000106234</AGI>
+      <LotNumber>1000024734</LotNumber>
+      <Description>GRM188R72A104KA35D 0603 0U1 100V X7R 10%</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021765</IPN>
+      <Quantity>2</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000150512</AGI>
+      <LotNumber>1000027801</LotNumber>
+      <Description>МИКРОСХЕМА VN7140ASTR (ST)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021646</IPN>
+      <Quantity>2</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000154537</AGI>
+      <LotNumber>1000028058</LotNumber>
+      <Description>МИКРОСХЕМА TCAN1042VDRQ1 (TI)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014082</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000119672</AGI>
+      <LotNumber>1000025725</LotNumber>
+      <Description>МИКРОСХЕМА CC1190RGVR</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014130</IPN>
+      <Quantity>3</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000114964</AGI>
+      <LotNumber>1000025415</LotNumber>
+      <Description>ДИОД PMEG4030EP,115 (NXP)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1013602</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000122304</AGI>
+      <LotNumber>1000025982</LotNumber>
+      <Description>МИКРОСХЕМА LM2931AD-5.0R2G (ONS)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1016253</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000098831</AGI>
+      <LotNumber>1000024207</LotNumber>
+      <Description>МИКРОСХЕМА 25AA640AT-I/MS (MICROCHIP)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1018263</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000139763</AGI>
+      <LotNumber>1000027094</LotNumber>
+      <Description>МИКРОСХЕМА CPC1117N (IXYS)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014503</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000057660</AGI>
+      <LotNumber>1000020841</LotNumber>
+      <Description>КАТУШКА СИЛ SMTDRRI8D28-100N-FN381 (3L)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021931</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000140851</AGI>
+      <LotNumber>1000027150</LotNumber>
+      <Description>МИКРОСХЕМА NRF52832-QFAA-R7 (NORDIC)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021768</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000139190</AGI>
+      <LotNumber>1000027061</LotNumber>
+      <Description>МИКРОСХЕМА STM32F412ZGT6 (ST)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021685</IPN>
+      <Quantity>3</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000102761</AGI>
+      <LotNumber>1000024557</LotNumber>
+      <Description>МИКРОСХЕМА SN65HVDA195QDRQ1 (TI)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014159</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000110939</AGI>
+      <LotNumber>1000025005</LotNumber>
+      <Description>РЕЗ NX2520SA 16MHZ S1-4085-1510-10 (NDK)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014280</IPN>
+      <Quantity>3</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000106235</AGI>
+      <LotNumber>1000024734</LotNumber>
+      <Description>GRM188R72A104KA35D 0603 0U1 100V X7R 10%</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1027372</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000107010</AGI>
+      <LotNumber>1000024823</LotNumber>
+      <Description>CE050M0022RED-0605 ЭЛ-ЛИТ 50V 22U 20%</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1030872</IPN>
+      <Quantity>6</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000159458</AGI>
+      <LotNumber>1000028347</LotNumber>
+      <Description>CC0402JRNPO9BN150 0402 15P 50V NPO 5%</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1030835</IPN>
+      <Quantity>2</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000165762</AGI>
+      <LotNumber>1000028469</LotNumber>
+      <Description>Разъем 20623-001E (MFF-SW20)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1013653</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000158421</AGI>
+      <LotNumber>1000025858</LotNumber>
+      <Description>МИКРОСХЕМА LIS3DH (ST MICRO)</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014591</IPN>
+      <Quantity>3</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000109235</AGI>
+      <LotNumber>1000024880</LotNumber>
+      <Description>РЕЗИСТОР SMD 0805 1K 5%</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1015614</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000036172</AGI>
+      <LotNumber>1000018207</LotNumber>
+      <Description>РЕЗИСТОР SMD 2010 27K 5%</Description>
+      <TimeConsumed>2018-11-19T11:26:11.837</TimeConsumed>
+    </ItemSummaryData>
+    <PreviousBatch/>
+    <PreviousOrder/>
+    <TimeRecorded/>
+  </WIPData>
+  <WIPData>
+    <ProductIdentifier>30199D8471002301</ProductIdentifier>
+    <Quantity>1</Quantity>
+    <Status>Passed</Status>
+    <Operation>6. AOI KY.</Operation>
+    <OperationSequence>7</OperationSequence>
+    <Workstation>AOI KY P5-3</Workstation>
+    <ERPRoutePoint/>
+    <ERPRoutePointValue/>
+    <CycleTime>31</CycleTime>
+    <TimeStarted>2018-11-19T11:25:45</TimeStarted>
+    <TimeCompleted>2018-11-19T11:26:16</TimeCompleted>
+    <PlacementCount>0</PlacementCount>
+    <Line>Line 3 SMT P5-3</Line>
+    <Assembly>3101541</Assembly>
+    <AssemblyRevision>3101541</AssemblyRevision>
+    <Process/>
+    <ProcessRevision>Pri</ProcessRevision>
+    <Batch>10015635</Batch>
+    <BatchLot/>
+    <Order/>
+    <PreviousBatch/>
+    <PreviousOrder/>
+    <TimeRecorded/>
+  </WIPData>
+  <WIPData>
+    <ProductIdentifier>30199D8471002302</ProductIdentifier>
+    <Quantity>1</Quantity>
+    <Status>Passed</Status>
+    <Operation>6. AOI KY.</Operation>
+    <OperationSequence>7</OperationSequence>
+    <Workstation>AOI KY P5-3</Workstation>
+    <ERPRoutePoint/>
+    <ERPRoutePointValue/>
+    <CycleTime>31</CycleTime>
+    <TimeStarted>2018-11-19T11:25:45</TimeStarted>
+    <TimeCompleted>2018-11-19T11:26:16</TimeCompleted>
+    <PlacementCount>0</PlacementCount>
+    <Line>Line 3 SMT P5-3</Line>
+    <Assembly>3101541</Assembly>
+    <AssemblyRevision>3101541</AssemblyRevision>
+    <Process/>
+    <ProcessRevision>Pri</ProcessRevision>
+    <Batch>10015635</Batch>
+    <BatchLot/>
+    <Order/>
+    <PreviousBatch/>
+    <PreviousOrder/>
+    <TimeRecorded/>
+  </WIPData>
+  <WIPData>
+    <ProductIdentifier>30199D8471002303</ProductIdentifier>
+    <Quantity>1</Quantity>
+    <Status>Passed</Status>
+    <Operation>6. AOI KY.</Operation>
+    <OperationSequence>7</OperationSequence>
+    <Workstation>AOI KY P5-3</Workstation>
+    <ERPRoutePoint/>
+    <ERPRoutePointValue/>
+    <CycleTime>31</CycleTime>
+    <TimeStarted>2018-11-19T11:25:45</TimeStarted>
+    <TimeCompleted>2018-11-19T11:26:16</TimeCompleted>
+    <PlacementCount>0</PlacementCount>
+    <Line>Line 3 SMT P5-3</Line>
+    <Assembly>3101541</Assembly>
+    <AssemblyRevision>3101541</AssemblyRevision>
+    <Process/>
+    <ProcessRevision>Pri</ProcessRevision>
+    <Batch>10015635</Batch>
+    <BatchLot/>
+    <Order/>
+    <PreviousBatch/>
+    <PreviousOrder/>
+    <TimeRecorded/>
+  </WIPData>
+  <WIPData>
+    <ProductIdentifier>30199D8471003201</ProductIdentifier>
+    <Quantity>1</Quantity>
+    <Status>Passed</Status>
+    <Operation>4. SMT.</Operation>
+    <OperationSequence>5</OperationSequence>
+    <Workstation>PanaCIM-3 SMT P5-3</Workstation>
+    <ERPRoutePoint/>
+    <ERPRoutePointValue/>
+    <CycleTime>0</CycleTime>
+    <TimeStarted>2018-11-19T11:27:01</TimeStarted>
+    <TimeCompleted>2018-11-19T11:27:01</TimeCompleted>
+    <PlacementCount>65</PlacementCount>
+    <Line>Line 3 SMT P5-3</Line>
+    <Assembly>3101541</Assembly>
+    <AssemblyRevision>3101541</AssemblyRevision>
+    <Process/>
+    <ProcessRevision>Pri</ProcessRevision>
+    <Batch>10015635</Batch>
+    <BatchLot/>
+    <Order/>
+    <ItemSummaryData>
+      <IPN>1014301</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000110659</AGI>
+      <LotNumber>1000024975</LotNumber>
+      <Description>КВАРЦ.ГЕН. NT2016SA 32MHZ END4622A (NDK)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014085</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000135282</AGI>
+      <LotNumber>1000026816</LotNumber>
+      <Description>МИКРОСХЕМА TPD2E001DRLR</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1025943</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000118530</AGI>
+      <LotNumber>1000025648</LotNumber>
+      <Description>МИКРОСХЕМА MX25L25645GM2I-08G(MACRONIX)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1016837</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000157828</AGI>
+      <LotNumber>1000028185</LotNumber>
+      <Description>РАЗЪЕМ USB MICRO UMMBF-051MGCB9-CF1066</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1025469</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000120181</AGI>
+      <LotNumber>1000025746</LotNumber>
+      <Description>МИКРОСХЕМА CC1121RHBR (TI)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014038</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000040024</AGI>
+      <LotNumber>1000018996</LotNumber>
+      <Description>РЕЗИСТОР SMD 0402 220R 5%</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021802</IPN>
+      <Quantity>2</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000110514</AGI>
+      <LotNumber>1000024949</LotNumber>
+      <Description>МИКРОСХЕМА ULN2003ADR (TI)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021765</IPN>
+      <Quantity>2</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000150512</AGI>
+      <LotNumber>1000027801</LotNumber>
+      <Description>МИКРОСХЕМА VN7140ASTR (ST)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021646</IPN>
+      <Quantity>2</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000154537</AGI>
+      <LotNumber>1000028058</LotNumber>
+      <Description>МИКРОСХЕМА TCAN1042VDRQ1 (TI)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014082</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000119672</AGI>
+      <LotNumber>1000025725</LotNumber>
+      <Description>МИКРОСХЕМА CC1190RGVR</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014130</IPN>
+      <Quantity>3</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000114964</AGI>
+      <LotNumber>1000025415</LotNumber>
+      <Description>ДИОД PMEG4030EP,115 (NXP)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1013602</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000122304</AGI>
+      <LotNumber>1000025982</LotNumber>
+      <Description>МИКРОСХЕМА LM2931AD-5.0R2G (ONS)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1016253</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000098831</AGI>
+      <LotNumber>1000024207</LotNumber>
+      <Description>МИКРОСХЕМА 25AA640AT-I/MS (MICROCHIP)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1018263</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000139763</AGI>
+      <LotNumber>1000027094</LotNumber>
+      <Description>МИКРОСХЕМА CPC1117N (IXYS)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014503</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000057660</AGI>
+      <LotNumber>1000020841</LotNumber>
+      <Description>КАТУШКА СИЛ SMTDRRI8D28-100N-FN381 (3L)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021931</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000140851</AGI>
+      <LotNumber>1000027150</LotNumber>
+      <Description>МИКРОСХЕМА NRF52832-QFAA-R7 (NORDIC)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021768</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000139190</AGI>
+      <LotNumber>1000027061</LotNumber>
+      <Description>МИКРОСХЕМА STM32F412ZGT6 (ST)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021685</IPN>
+      <Quantity>3</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000102761</AGI>
+      <LotNumber>1000024557</LotNumber>
+      <Description>МИКРОСХЕМА SN65HVDA195QDRQ1 (TI)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014159</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000110939</AGI>
+      <LotNumber>1000025005</LotNumber>
+      <Description>РЕЗ NX2520SA 16MHZ S1-4085-1510-10 (NDK)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014280</IPN>
+      <Quantity>25</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000106235</AGI>
+      <LotNumber>1000024734</LotNumber>
+      <Description>GRM188R72A104KA35D 0603 0U1 100V X7R 10%</Description>
+      <TimeConsumed>2018-11-19T11:27:12.133</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1027372</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000107010</AGI>
+      <LotNumber>1000024823</LotNumber>
+      <Description>CE050M0022RED-0605 ЭЛ-ЛИТ 50V 22U 20%</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1030872</IPN>
+      <Quantity>6</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000159458</AGI>
+      <LotNumber>1000028347</LotNumber>
+      <Description>CC0402JRNPO9BN150 0402 15P 50V NPO 5%</Description>
+      <TimeConsumed>2018-11-19T11:27:12.133</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1030835</IPN>
+      <Quantity>2</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000165762</AGI>
+      <LotNumber>1000028469</LotNumber>
+      <Description>Разъем 20623-001E (MFF-SW20)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1013653</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000158421</AGI>
+      <LotNumber>1000025858</LotNumber>
+      <Description>МИКРОСХЕМА LIS3DH (ST MICRO)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014591</IPN>
+      <Quantity>3</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000109235</AGI>
+      <LotNumber>1000024880</LotNumber>
+      <Description>РЕЗИСТОР SMD 0805 1K 5%</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1015614</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000036172</AGI>
+      <LotNumber>1000018207</LotNumber>
+      <Description>РЕЗИСТОР SMD 2010 27K 5%</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <PreviousBatch/>
+    <PreviousOrder/>
+    <TimeRecorded/>
+  </WIPData>
+  <WIPData>
+    <ProductIdentifier>30199D8471003202</ProductIdentifier>
+    <Quantity>1</Quantity>
+    <Status>Passed</Status>
+    <Operation>4. SMT.</Operation>
+    <OperationSequence>5</OperationSequence>
+    <Workstation>PanaCIM-3 SMT P5-3</Workstation>
+    <ERPRoutePoint/>
+    <ERPRoutePointValue/>
+    <CycleTime>0</CycleTime>
+    <TimeStarted>2018-11-19T11:27:01</TimeStarted>
+    <TimeCompleted>2018-11-19T11:27:01</TimeCompleted>
+    <PlacementCount>65</PlacementCount>
+    <Line>Line 3 SMT P5-3</Line>
+    <Assembly>3101541</Assembly>
+    <AssemblyRevision>3101541</AssemblyRevision>
+    <Process/>
+    <ProcessRevision>Pri</ProcessRevision>
+    <Batch>10015635</Batch>
+    <BatchLot/>
+    <Order/>
+    <ItemSummaryData>
+      <IPN>1014301</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000110659</AGI>
+      <LotNumber>1000024975</LotNumber>
+      <Description>КВАРЦ.ГЕН. NT2016SA 32MHZ END4622A (NDK)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014085</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000135282</AGI>
+      <LotNumber>1000026816</LotNumber>
+      <Description>МИКРОСХЕМА TPD2E001DRLR</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1025943</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000118530</AGI>
+      <LotNumber>1000025648</LotNumber>
+      <Description>МИКРОСХЕМА MX25L25645GM2I-08G(MACRONIX)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1016837</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000157828</AGI>
+      <LotNumber>1000028185</LotNumber>
+      <Description>РАЗЪЕМ USB MICRO UMMBF-051MGCB9-CF1066</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1025469</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000120181</AGI>
+      <LotNumber>1000025746</LotNumber>
+      <Description>МИКРОСХЕМА CC1121RHBR (TI)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014038</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000040024</AGI>
+      <LotNumber>1000018996</LotNumber>
+      <Description>РЕЗИСТОР SMD 0402 220R 5%</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021802</IPN>
+      <Quantity>2</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000110514</AGI>
+      <LotNumber>1000024949</LotNumber>
+      <Description>МИКРОСХЕМА ULN2003ADR (TI)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021765</IPN>
+      <Quantity>2</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000150512</AGI>
+      <LotNumber>1000027801</LotNumber>
+      <Description>МИКРОСХЕМА VN7140ASTR (ST)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021646</IPN>
+      <Quantity>2</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000154537</AGI>
+      <LotNumber>1000028058</LotNumber>
+      <Description>МИКРОСХЕМА TCAN1042VDRQ1 (TI)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014082</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000119672</AGI>
+      <LotNumber>1000025725</LotNumber>
+      <Description>МИКРОСХЕМА CC1190RGVR</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014130</IPN>
+      <Quantity>3</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000114964</AGI>
+      <LotNumber>1000025415</LotNumber>
+      <Description>ДИОД PMEG4030EP,115 (NXP)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1013602</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000122304</AGI>
+      <LotNumber>1000025982</LotNumber>
+      <Description>МИКРОСХЕМА LM2931AD-5.0R2G (ONS)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1016253</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000098831</AGI>
+      <LotNumber>1000024207</LotNumber>
+      <Description>МИКРОСХЕМА 25AA640AT-I/MS (MICROCHIP)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1018263</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000139763</AGI>
+      <LotNumber>1000027094</LotNumber>
+      <Description>МИКРОСХЕМА CPC1117N (IXYS)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014503</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000057660</AGI>
+      <LotNumber>1000020841</LotNumber>
+      <Description>КАТУШКА СИЛ SMTDRRI8D28-100N-FN381 (3L)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021931</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000140851</AGI>
+      <LotNumber>1000027150</LotNumber>
+      <Description>МИКРОСХЕМА NRF52832-QFAA-R7 (NORDIC)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021768</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000139190</AGI>
+      <LotNumber>1000027061</LotNumber>
+      <Description>МИКРОСХЕМА STM32F412ZGT6 (ST)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021685</IPN>
+      <Quantity>3</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000102761</AGI>
+      <LotNumber>1000024557</LotNumber>
+      <Description>МИКРОСХЕМА SN65HVDA195QDRQ1 (TI)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014159</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000110939</AGI>
+      <LotNumber>1000025005</LotNumber>
+      <Description>РЕЗ NX2520SA 16MHZ S1-4085-1510-10 (NDK)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014280</IPN>
+      <Quantity>25</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000106235</AGI>
+      <LotNumber>1000024734</LotNumber>
+      <Description>GRM188R72A104KA35D 0603 0U1 100V X7R 10%</Description>
+      <TimeConsumed>2018-11-19T11:27:12.133</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1027372</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000107010</AGI>
+      <LotNumber>1000024823</LotNumber>
+      <Description>CE050M0022RED-0605 ЭЛ-ЛИТ 50V 22U 20%</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1030872</IPN>
+      <Quantity>6</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000159458</AGI>
+      <LotNumber>1000028347</LotNumber>
+      <Description>CC0402JRNPO9BN150 0402 15P 50V NPO 5%</Description>
+      <TimeConsumed>2018-11-19T11:27:12.133</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1030835</IPN>
+      <Quantity>2</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000165762</AGI>
+      <LotNumber>1000028469</LotNumber>
+      <Description>Разъем 20623-001E (MFF-SW20)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1013653</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000158421</AGI>
+      <LotNumber>1000025858</LotNumber>
+      <Description>МИКРОСХЕМА LIS3DH (ST MICRO)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014591</IPN>
+      <Quantity>3</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000109235</AGI>
+      <LotNumber>1000024880</LotNumber>
+      <Description>РЕЗИСТОР SMD 0805 1K 5%</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1015614</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000036172</AGI>
+      <LotNumber>1000018207</LotNumber>
+      <Description>РЕЗИСТОР SMD 2010 27K 5%</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <PreviousBatch/>
+    <PreviousOrder/>
+    <TimeRecorded/>
+  </WIPData>
+  <WIPData>
+    <ProductIdentifier>30199D8471003203</ProductIdentifier>
+    <Quantity>1</Quantity>
+    <Status>Passed</Status>
+    <Operation>4. SMT.</Operation>
+    <OperationSequence>5</OperationSequence>
+    <Workstation>PanaCIM-3 SMT P5-3</Workstation>
+    <ERPRoutePoint/>
+    <ERPRoutePointValue/>
+    <CycleTime>0</CycleTime>
+    <TimeStarted>2018-11-19T11:27:01</TimeStarted>
+    <TimeCompleted>2018-11-19T11:27:01</TimeCompleted>
+    <PlacementCount>65</PlacementCount>
+    <Line>Line 3 SMT P5-3</Line>
+    <Assembly>3101541</Assembly>
+    <AssemblyRevision>3101541</AssemblyRevision>
+    <Process/>
+    <ProcessRevision>Pri</ProcessRevision>
+    <Batch>10015635</Batch>
+    <BatchLot/>
+    <Order/>
+    <ItemSummaryData>
+      <IPN>1014301</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000110659</AGI>
+      <LotNumber>1000024975</LotNumber>
+      <Description>КВАРЦ.ГЕН. NT2016SA 32MHZ END4622A (NDK)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014085</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000135282</AGI>
+      <LotNumber>1000026816</LotNumber>
+      <Description>МИКРОСХЕМА TPD2E001DRLR</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1025943</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000118530</AGI>
+      <LotNumber>1000025648</LotNumber>
+      <Description>МИКРОСХЕМА MX25L25645GM2I-08G(MACRONIX)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1016837</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000157828</AGI>
+      <LotNumber>1000028185</LotNumber>
+      <Description>РАЗЪЕМ USB MICRO UMMBF-051MGCB9-CF1066</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1025469</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000120181</AGI>
+      <LotNumber>1000025746</LotNumber>
+      <Description>МИКРОСХЕМА CC1121RHBR (TI)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014038</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000040024</AGI>
+      <LotNumber>1000018996</LotNumber>
+      <Description>РЕЗИСТОР SMD 0402 220R 5%</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021802</IPN>
+      <Quantity>2</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000110514</AGI>
+      <LotNumber>1000024949</LotNumber>
+      <Description>МИКРОСХЕМА ULN2003ADR (TI)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021765</IPN>
+      <Quantity>2</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000150512</AGI>
+      <LotNumber>1000027801</LotNumber>
+      <Description>МИКРОСХЕМА VN7140ASTR (ST)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021646</IPN>
+      <Quantity>2</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000154537</AGI>
+      <LotNumber>1000028058</LotNumber>
+      <Description>МИКРОСХЕМА TCAN1042VDRQ1 (TI)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014082</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000119672</AGI>
+      <LotNumber>1000025725</LotNumber>
+      <Description>МИКРОСХЕМА CC1190RGVR</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014130</IPN>
+      <Quantity>3</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000114964</AGI>
+      <LotNumber>1000025415</LotNumber>
+      <Description>ДИОД PMEG4030EP,115 (NXP)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1013602</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000122304</AGI>
+      <LotNumber>1000025982</LotNumber>
+      <Description>МИКРОСХЕМА LM2931AD-5.0R2G (ONS)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1016253</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000098831</AGI>
+      <LotNumber>1000024207</LotNumber>
+      <Description>МИКРОСХЕМА 25AA640AT-I/MS (MICROCHIP)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1018263</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000139763</AGI>
+      <LotNumber>1000027094</LotNumber>
+      <Description>МИКРОСХЕМА CPC1117N (IXYS)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014503</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000057660</AGI>
+      <LotNumber>1000020841</LotNumber>
+      <Description>КАТУШКА СИЛ SMTDRRI8D28-100N-FN381 (3L)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021931</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000140851</AGI>
+      <LotNumber>1000027150</LotNumber>
+      <Description>МИКРОСХЕМА NRF52832-QFAA-R7 (NORDIC)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021768</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000139190</AGI>
+      <LotNumber>1000027061</LotNumber>
+      <Description>МИКРОСХЕМА STM32F412ZGT6 (ST)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021685</IPN>
+      <Quantity>3</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000102761</AGI>
+      <LotNumber>1000024557</LotNumber>
+      <Description>МИКРОСХЕМА SN65HVDA195QDRQ1 (TI)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014159</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000110939</AGI>
+      <LotNumber>1000025005</LotNumber>
+      <Description>РЕЗ NX2520SA 16MHZ S1-4085-1510-10 (NDK)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014280</IPN>
+      <Quantity>25</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000106235</AGI>
+      <LotNumber>1000024734</LotNumber>
+      <Description>GRM188R72A104KA35D 0603 0U1 100V X7R 10%</Description>
+      <TimeConsumed>2018-11-19T11:27:12.133</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1027372</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000107010</AGI>
+      <LotNumber>1000024823</LotNumber>
+      <Description>CE050M0022RED-0605 ЭЛ-ЛИТ 50V 22U 20%</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1030872</IPN>
+      <Quantity>6</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000159458</AGI>
+      <LotNumber>1000028347</LotNumber>
+      <Description>CC0402JRNPO9BN150 0402 15P 50V NPO 5%</Description>
+      <TimeConsumed>2018-11-19T11:27:12.133</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1030835</IPN>
+      <Quantity>2</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000165762</AGI>
+      <LotNumber>1000028469</LotNumber>
+      <Description>Разъем 20623-001E (MFF-SW20)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1013653</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000158421</AGI>
+      <LotNumber>1000025858</LotNumber>
+      <Description>МИКРОСХЕМА LIS3DH (ST MICRO)</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014591</IPN>
+      <Quantity>3</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000109235</AGI>
+      <LotNumber>1000024880</LotNumber>
+      <Description>РЕЗИСТОР SMD 0805 1K 5%</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1015614</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000036172</AGI>
+      <LotNumber>1000018207</LotNumber>
+      <Description>РЕЗИСТОР SMD 2010 27K 5%</Description>
+      <TimeConsumed>2018-11-19T11:27:12.15</TimeConsumed>
+    </ItemSummaryData>
+    <PreviousBatch/>
+    <PreviousOrder/>
+    <TimeRecorded/>
+  </WIPData>
+  <WIPData>
+    <ProductIdentifier>30199D8471003001</ProductIdentifier>
+    <Quantity>1</Quantity>
+    <Status>Passed</Status>
+    <Operation>6. AOI KY.</Operation>
+    <OperationSequence>7</OperationSequence>
+    <Workstation>AOI KY P5-3</Workstation>
+    <ERPRoutePoint/>
+    <ERPRoutePointValue/>
+    <CycleTime>31</CycleTime>
+    <TimeStarted>2018-11-19T11:26:30</TimeStarted>
+    <TimeCompleted>2018-11-19T11:27:01</TimeCompleted>
+    <PlacementCount>0</PlacementCount>
+    <Line>Line 3 SMT P5-3</Line>
+    <Assembly>3101541</Assembly>
+    <AssemblyRevision>3101541</AssemblyRevision>
+    <Process/>
+    <ProcessRevision>Pri</ProcessRevision>
+    <Batch>10015635</Batch>
+    <BatchLot/>
+    <Order/>
+    <PreviousBatch/>
+    <PreviousOrder/>
+    <TimeRecorded/>
+  </WIPData>
+  <WIPData>
+    <ProductIdentifier>30199D8471003002</ProductIdentifier>
+    <Quantity>1</Quantity>
+    <Status>Passed</Status>
+    <Operation>6. AOI KY.</Operation>
+    <OperationSequence>7</OperationSequence>
+    <Workstation>AOI KY P5-3</Workstation>
+    <ERPRoutePoint/>
+    <ERPRoutePointValue/>
+    <CycleTime>31</CycleTime>
+    <TimeStarted>2018-11-19T11:26:30</TimeStarted>
+    <TimeCompleted>2018-11-19T11:27:01</TimeCompleted>
+    <PlacementCount>0</PlacementCount>
+    <Line>Line 3 SMT P5-3</Line>
+    <Assembly>3101541</Assembly>
+    <AssemblyRevision>3101541</AssemblyRevision>
+    <Process/>
+    <ProcessRevision>Pri</ProcessRevision>
+    <Batch>10015635</Batch>
+    <BatchLot/>
+    <Order/>
+    <PreviousBatch/>
+    <PreviousOrder/>
+    <TimeRecorded/>
+  </WIPData>
+  <WIPData>
+    <ProductIdentifier>30199D8471003003</ProductIdentifier>
+    <Quantity>1</Quantity>
+    <Status>Passed</Status>
+    <Operation>6. AOI KY.</Operation>
+    <OperationSequence>7</OperationSequence>
+    <Workstation>AOI KY P5-3</Workstation>
+    <ERPRoutePoint/>
+    <ERPRoutePointValue/>
+    <CycleTime>31</CycleTime>
+    <TimeStarted>2018-11-19T11:26:30</TimeStarted>
+    <TimeCompleted>2018-11-19T11:27:01</TimeCompleted>
+    <PlacementCount>0</PlacementCount>
+    <Line>Line 3 SMT P5-3</Line>
+    <Assembly>3101541</Assembly>
+    <AssemblyRevision>3101541</AssemblyRevision>
+    <Process/>
+    <ProcessRevision>Pri</ProcessRevision>
+    <Batch>10015635</Batch>
+    <BatchLot/>
+    <Order/>
+    <PreviousBatch/>
+    <PreviousOrder/>
+    <TimeRecorded/>
+  </WIPData>
+  <WIPData>
+    <ProductIdentifier>30199D8471003401</ProductIdentifier>
+    <Quantity>1</Quantity>
+    <Status>Passed</Status>
+    <Operation>4. SMT.</Operation>
+    <OperationSequence>5</OperationSequence>
+    <Workstation>PanaCIM-1 SMT P5-3</Workstation>
+    <ERPRoutePoint/>
+    <ERPRoutePointValue/>
+    <CycleTime>0</CycleTime>
+    <TimeStarted>2018-11-19T11:29:13</TimeStarted>
+    <TimeCompleted>2018-11-19T11:29:13</TimeCompleted>
+    <PlacementCount>174</PlacementCount>
+    <Line>Line 3 SMT P5-3</Line>
+    <Assembly>3101541</Assembly>
+    <AssemblyRevision>3101541</AssemblyRevision>
+    <Process/>
+    <ProcessRevision>Pri</ProcessRevision>
+    <Batch>10015635</Batch>
+    <BatchLot/>
+    <Order/>
+    <ItemSummaryData>
+      <IPN>1023491</IPN>
+      <Quantity>18</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000120946</AGI>
+      <LotNumber>1000025839</LotNumber>
+      <Description>ДИОД SD36-01FTG (LITTELFUSE)</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1025850</IPN>
+      <Quantity>7</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000130500</AGI>
+      <LotNumber>1000026408</LotNumber>
+      <Description>ДИОД ESD5Z3.3T1G (ONS)</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014043</IPN>
+      <Quantity>26</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000107930</AGI>
+      <LotNumber>1000024846</LotNumber>
+      <Description>РЕЗИСТОР SMD 0402 10K 5%</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021805</IPN>
+      <Quantity>17</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000050995</AGI>
+      <LotNumber>1000018179</LotNumber>
+      <Description>РЕЗИСТОР SMD 0603 3R 5%</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014276</IPN>
+      <Quantity>11</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000055251</AGI>
+      <LotNumber>1000020671</LotNumber>
+      <Description>GRM155R71E473KA88D 0402 47N 25V X7R 10%</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014156</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000110597</AGI>
+      <LotNumber>1000024967</LotNumber>
+      <Description>КВАРЦЕВЫЙ РЕЗОНАТОР NX2016SA-32MHZ</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014439</IPN>
+      <Quantity>11</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000109432</AGI>
+      <LotNumber>1000024883</LotNumber>
+      <Description>РЕЗИСТОР SMD 0402 43K 5%</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014040</IPN>
+      <Quantity>8</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000109327</AGI>
+      <LotNumber>1000024881</LotNumber>
+      <Description>РЕЗИСТОР SMD 0402 1K 5%</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014044</IPN>
+      <Quantity>14</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000107538</AGI>
+      <LotNumber>1000024844</LotNumber>
+      <Description>РЕЗИСТОР SMD 0402 100K 5%</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1027841</IPN>
+      <Quantity>11</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000148381</AGI>
+      <LotNumber>1000027631</LotNumber>
+      <Description>GRM1555C1H470JA01D 0402 47P 50V C0G 5%</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021997</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000118943</AGI>
+      <LotNumber>1000025676</LotNumber>
+      <Description>КАТУШКА ВЧ LQW15AN3N9C00 SMD 0402 3N9</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014282</IPN>
+      <Quantity>6</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000110256</AGI>
+      <LotNumber>1000024930</LotNumber>
+      <Description>GRM188R71A225KE15D 0603 2U2 10V X7R 10%</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1019751</IPN>
+      <Quantity>3</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000130868</AGI>
+      <LotNumber>1000026460</LotNumber>
+      <Description>ТРАНЗИСТОР DTC114EET1G (ONS)</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014277</IPN>
+      <Quantity>35</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000123412</AGI>
+      <LotNumber>1000026039</LotNumber>
+      <Description>GRM155R71C104KA88D 0402 0U1 16V X7R 10%</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <Quantity>3</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000123601</AGI>
+      <LotNumber>1000026030</LotNumber>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014047</IPN>
+      <Quantity>2</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000160346</AGI>
+      <LotNumber>1000028412</LotNumber>
+      <Description>РЕЗИСТОР SMD 0402 1M 5%</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <PreviousBatch/>
+    <PreviousOrder/>
+    <TimeRecorded/>
+  </WIPData>
+  <WIPData>
+    <ProductIdentifier>30199D8471003402</ProductIdentifier>
+    <Quantity>1</Quantity>
+    <Status>Passed</Status>
+    <Operation>4. SMT.</Operation>
+    <OperationSequence>5</OperationSequence>
+    <Workstation>PanaCIM-1 SMT P5-3</Workstation>
+    <ERPRoutePoint/>
+    <ERPRoutePointValue/>
+    <CycleTime>0</CycleTime>
+    <TimeStarted>2018-11-19T11:29:13</TimeStarted>
+    <TimeCompleted>2018-11-19T11:29:13</TimeCompleted>
+    <PlacementCount>174</PlacementCount>
+    <Line>Line 3 SMT P5-3</Line>
+    <Assembly>3101541</Assembly>
+    <AssemblyRevision>3101541</AssemblyRevision>
+    <Process/>
+    <ProcessRevision>Pri</ProcessRevision>
+    <Batch>10015635</Batch>
+    <BatchLot/>
+    <Order/>
+    <ItemSummaryData>
+      <IPN>1023491</IPN>
+      <Quantity>18</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000120946</AGI>
+      <LotNumber>1000025839</LotNumber>
+      <Description>ДИОД SD36-01FTG (LITTELFUSE)</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1025850</IPN>
+      <Quantity>7</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000130500</AGI>
+      <LotNumber>1000026408</LotNumber>
+      <Description>ДИОД ESD5Z3.3T1G (ONS)</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014043</IPN>
+      <Quantity>26</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000107930</AGI>
+      <LotNumber>1000024846</LotNumber>
+      <Description>РЕЗИСТОР SMD 0402 10K 5%</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021805</IPN>
+      <Quantity>17</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000050995</AGI>
+      <LotNumber>1000018179</LotNumber>
+      <Description>РЕЗИСТОР SMD 0603 3R 5%</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014276</IPN>
+      <Quantity>11</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000055251</AGI>
+      <LotNumber>1000020671</LotNumber>
+      <Description>GRM155R71E473KA88D 0402 47N 25V X7R 10%</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014156</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000110597</AGI>
+      <LotNumber>1000024967</LotNumber>
+      <Description>КВАРЦЕВЫЙ РЕЗОНАТОР NX2016SA-32MHZ</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014439</IPN>
+      <Quantity>11</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000109432</AGI>
+      <LotNumber>1000024883</LotNumber>
+      <Description>РЕЗИСТОР SMD 0402 43K 5%</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014040</IPN>
+      <Quantity>8</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000109327</AGI>
+      <LotNumber>1000024881</LotNumber>
+      <Description>РЕЗИСТОР SMD 0402 1K 5%</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014044</IPN>
+      <Quantity>14</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000107538</AGI>
+      <LotNumber>1000024844</LotNumber>
+      <Description>РЕЗИСТОР SMD 0402 100K 5%</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1027841</IPN>
+      <Quantity>11</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000148381</AGI>
+      <LotNumber>1000027631</LotNumber>
+      <Description>GRM1555C1H470JA01D 0402 47P 50V C0G 5%</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021997</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000118943</AGI>
+      <LotNumber>1000025676</LotNumber>
+      <Description>КАТУШКА ВЧ LQW15AN3N9C00 SMD 0402 3N9</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014282</IPN>
+      <Quantity>6</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000110256</AGI>
+      <LotNumber>1000024930</LotNumber>
+      <Description>GRM188R71A225KE15D 0603 2U2 10V X7R 10%</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1019751</IPN>
+      <Quantity>3</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000130868</AGI>
+      <LotNumber>1000026460</LotNumber>
+      <Description>ТРАНЗИСТОР DTC114EET1G (ONS)</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014277</IPN>
+      <Quantity>35</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000123412</AGI>
+      <LotNumber>1000026039</LotNumber>
+      <Description>GRM155R71C104KA88D 0402 0U1 16V X7R 10%</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <Quantity>3</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000123601</AGI>
+      <LotNumber>1000026030</LotNumber>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014047</IPN>
+      <Quantity>2</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000160346</AGI>
+      <LotNumber>1000028412</LotNumber>
+      <Description>РЕЗИСТОР SMD 0402 1M 5%</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <PreviousBatch/>
+    <PreviousOrder/>
+    <TimeRecorded/>
+  </WIPData>
+  <WIPData>
+    <ProductIdentifier>30199D8471003403</ProductIdentifier>
+    <Quantity>1</Quantity>
+    <Status>Passed</Status>
+    <Operation>4. SMT.</Operation>
+    <OperationSequence>5</OperationSequence>
+    <Workstation>PanaCIM-1 SMT P5-3</Workstation>
+    <ERPRoutePoint/>
+    <ERPRoutePointValue/>
+    <CycleTime>0</CycleTime>
+    <TimeStarted>2018-11-19T11:29:13</TimeStarted>
+    <TimeCompleted>2018-11-19T11:29:13</TimeCompleted>
+    <PlacementCount>174</PlacementCount>
+    <Line>Line 3 SMT P5-3</Line>
+    <Assembly>3101541</Assembly>
+    <AssemblyRevision>3101541</AssemblyRevision>
+    <Process/>
+    <ProcessRevision>Pri</ProcessRevision>
+    <Batch>10015635</Batch>
+    <BatchLot/>
+    <Order/>
+    <ItemSummaryData>
+      <IPN>1023491</IPN>
+      <Quantity>18</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000120946</AGI>
+      <LotNumber>1000025839</LotNumber>
+      <Description>ДИОД SD36-01FTG (LITTELFUSE)</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1025850</IPN>
+      <Quantity>7</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000130500</AGI>
+      <LotNumber>1000026408</LotNumber>
+      <Description>ДИОД ESD5Z3.3T1G (ONS)</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014043</IPN>
+      <Quantity>26</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000107930</AGI>
+      <LotNumber>1000024846</LotNumber>
+      <Description>РЕЗИСТОР SMD 0402 10K 5%</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021805</IPN>
+      <Quantity>17</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000050995</AGI>
+      <LotNumber>1000018179</LotNumber>
+      <Description>РЕЗИСТОР SMD 0603 3R 5%</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014276</IPN>
+      <Quantity>11</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000055251</AGI>
+      <LotNumber>1000020671</LotNumber>
+      <Description>GRM155R71E473KA88D 0402 47N 25V X7R 10%</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014156</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000110597</AGI>
+      <LotNumber>1000024967</LotNumber>
+      <Description>КВАРЦЕВЫЙ РЕЗОНАТОР NX2016SA-32MHZ</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014439</IPN>
+      <Quantity>11</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000109432</AGI>
+      <LotNumber>1000024883</LotNumber>
+      <Description>РЕЗИСТОР SMD 0402 43K 5%</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014040</IPN>
+      <Quantity>8</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000109327</AGI>
+      <LotNumber>1000024881</LotNumber>
+      <Description>РЕЗИСТОР SMD 0402 1K 5%</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014044</IPN>
+      <Quantity>14</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000107538</AGI>
+      <LotNumber>1000024844</LotNumber>
+      <Description>РЕЗИСТОР SMD 0402 100K 5%</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1027841</IPN>
+      <Quantity>11</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000148381</AGI>
+      <LotNumber>1000027631</LotNumber>
+      <Description>GRM1555C1H470JA01D 0402 47P 50V C0G 5%</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1021997</IPN>
+      <Quantity>1</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000118943</AGI>
+      <LotNumber>1000025676</LotNumber>
+      <Description>КАТУШКА ВЧ LQW15AN3N9C00 SMD 0402 3N9</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014282</IPN>
+      <Quantity>6</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000110256</AGI>
+      <LotNumber>1000024930</LotNumber>
+      <Description>GRM188R71A225KE15D 0603 2U2 10V X7R 10%</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1019751</IPN>
+      <Quantity>3</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000130868</AGI>
+      <LotNumber>1000026460</LotNumber>
+      <Description>ТРАНЗИСТОР DTC114EET1G (ONS)</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014277</IPN>
+      <Quantity>35</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000123412</AGI>
+      <LotNumber>1000026039</LotNumber>
+      <Description>GRM155R71C104KA88D 0402 0U1 16V X7R 10%</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <Quantity>3</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000123601</AGI>
+      <LotNumber>1000026030</LotNumber>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <ItemSummaryData>
+      <IPN>1014047</IPN>
+      <Quantity>2</Quantity>
+      <UnitOfIssue>Pieces</UnitOfIssue>
+      <AGI>1000160346</AGI>
+      <LotNumber>1000028412</LotNumber>
+      <Description>РЕЗИСТОР SMD 0402 1M 5%</Description>
+      <TimeConsumed>2018-11-19T11:29:31.93</TimeConsumed>
+    </ItemSummaryData>
+    <PreviousBatch/>
+    <PreviousOrder/>
+    <TimeRecorded/>
+  </WIPData>
+</WIPDatas>
